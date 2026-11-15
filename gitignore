@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit secrets (keep your production keys secure)
+.streamlit/secrets.toml
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
